@@ -141,16 +141,12 @@ int main()
 							}
 						}
 						pro_count[word_pos]+=1;
-
-
 					*/
 
 					if(word_exist==1)
 						pro_count[m]+=1;
 					else 
 						pro_count[k]+=1;
-
-					
 				}
 			}
 		}//end while
