@@ -35,3 +35,4 @@ The output files that have identified each pronoun in the conversation. The pron
 <POS>PRP</POS>
 and
 <POS>PRP$</POS>
+The results obtained were then used to prove and disprove Hypotheses that were given to us based on our dataset.
